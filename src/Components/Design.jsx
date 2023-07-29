@@ -53,7 +53,7 @@ const links = [
         <HiOutlineMail size={33} />  
       </>
     ),
-    href: "https://linkedin.com",
+    href: "mailto:rakshitagarwalrocks@gmail.com",
     style:" hover:text-red-600",
   },
   {

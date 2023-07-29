@@ -27,13 +27,13 @@ const About = () => {
             <p className="font-medium text-xl py-2 text-gray-300">Sofware Engineer</p>
           </div>
         </div>
-        <div className="flex-[0.5] text-left flex-col">
-          <div className="pb-5">
-            <p className="text-4xl font-bold inline border-b-4 border-gray-500">
+        <div className="flex-[0.5]  flex-col">
+          <div className="pb-5 flex items-center justify-center">
+            <p className="text-4xl font-bold inline border-b-4 border-gray-500 text-center">
               What I Do
             </p>
           </div>
-          <p className="text-lg mt-10">
+          <p className="text-lg mt-10 text-left">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
             perferendis libero exercitationem, in laboriosam quod vel voluptates
             modi dicta? Id ex aliquid alias, quas rerum obcaecati libero
