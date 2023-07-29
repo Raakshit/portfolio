@@ -34,21 +34,11 @@ const About = () => {
             </p>
           </div>
           <p className="text-lg mt-10 text-left">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
-            perferendis libero exercitationem, in laboriosam quod vel voluptates
-            modi dicta? Id ex aliquid alias, quas rerum obcaecati libero
-            quibusdam hic molestiae facilis nostrum ipsam! Excepturi sed iure
-            maiores sapiente in, delectus esse quo, repellat, odit officiis
-            omnis velit quidem voluptas debitis.
+          I'm Rakshit, a final year student of computer and communication Engineer at manipal University jaipur. As a web developer, I am dedicated to creating dynamic and responsive websites that provide a seamless user experience. I have experience working with modern technologies such as HTML, CSS, JavaScript and various frameworks such as React, Next Js. Beyond frontend development, I have developed a keen interest in solving data structure problems. The challenge of analyzing algorithms, optimizing code efficiency, and finding elegant solutions drives me to continually enhance my problem-solving skills.
           </p>
           <br></br>
           <p className="text-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
-            voluptatibus consectetur commodi a et excepturi voluptatum,
-            exercitationem dolorem voluptatem sequi architecto rem fugiat vitae
-            eum. Dolores ipsum consequatur adipisci ab! Eveniet expedita
-            consectetur nihil eos ullam cupiditate dignissimos accusantium
-            aliquam.
+          Recently completed Tech Internship at UNSTOP(formally Dare2Compete), focusing on frontend development for an in-house email application. Proficient in HTML, CSS, and JavaScript, creating intuitive interfaces. Enhanced skills in React JS for dynamic features. Explored backend integration with Firebase, gaining insight into full-stack development. Grateful for mentorship and eager to apply newfound expertise.
           </p>
         </div>
       </div>
