@@ -29,18 +29,6 @@ const Portfolio = () => {
       hostLink:
         "https://643fb7fcffd0f6008c5f6fac--fantastic-maamoul-bc88b1.netlify.app/",
     },
-    // {
-    //   id: 4,
-    //   src: Demo1,
-    // },
-    // {
-    //   id: 5,
-    //   src: Demo1,
-    // },
-    // {
-    //   id: 6,
-    //   src: Demo1,
-    // },
   ];
 
   return (
@@ -56,7 +44,7 @@ const Portfolio = () => {
           <p className="py-6">Check out some of my work here</p>
         </div>
 
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-15 sm:px-0">
           {portfoli.map((item) => (
             <div
               key={item.id}
@@ -67,19 +55,19 @@ const Portfolio = () => {
                 className="rounded-md overflow-hidden"
                 alt=""
               />
-              <p className="flex items-center justify-center text-xl font-medium py-2">
+              <p className="flex items-center justify-center text-xl font-medium py-1">
                 {item.title}
               </p>
               <div className="flex items-center justify-around">
                 <a 
-                className="m-4 hover:text-gray-500"
+                className="m-2 hover:text-gray-500"
                 href={item.hostLink} target="_blank" rel="noreferrer">
                   <BsGlobe size={25} />
                 </a>
                 <a 
-                className="m-4 hover:text-gray-500"
+                className="m-2 hover:text-gray-500"
                 href={item.gitLink} target="_blank" rel="noreferrer">
-                  <AiOutlineGithub size={28} />
+                  <AiOutlineGithub size={25} />
                 </a>
               </div>
             </div>
